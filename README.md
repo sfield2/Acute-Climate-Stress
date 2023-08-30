@@ -13,4 +13,7 @@ Script used for analysis is an R script, entitled "ANALYSIS.R", that contains al
 
 See Glowacki and Field (2023) at [github.com/sfield2/](https://github.com/sfield2/NSJ-MV-CeramicSeriation) for methods related to ceramic-based occupation assignments.
 
+# Functions
+
+
 If you have questions, email Sean Field (Sean.Field@uwyo.edu).
