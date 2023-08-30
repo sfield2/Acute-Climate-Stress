@@ -11,10 +11,10 @@ Portions of the data used in this research is provided infolder entitled "DATA".
 # Analysis 
 Script used for analysis is an R script, entitled "ANALYSIS.R", that contains all necessary commands for the creation of acute stress regimes and Grange causality tests. 
 
-See [Glowacki and Field (2023](https://github.com/sfield2/NSJ-MV-CeramicSeriation) for methods related to ceramic-based occupation assignments.
+See [Glowacki and Field (2023)](https://github.com/sfield2/NSJ-MV-CeramicSeriation) for methods related to ceramic-based occupation assignments.
 
 # Functions
-Paleocar function used for paleoclimate reconstructions and maize niche models. Originally built by Bocinsky ([2016]https://github.com/bocinsky/paleocar), updated by Reese ([2020](https://github.com/kmreese-io/Reese_2020-JASR/tree/master/FUNCTIONS)), and updated again for this analysis. 
+Paleocar function used for paleoclimate reconstructions and maize niche models. Originally built by [Bocinsky (2015)](https://github.com/bocinsky/paleocar), updated by [Reese (2020)](https://github.com/kmreese-io/Reese_2020-JASR/tree/master/FUNCTIONS)), and updated again for this analysis. 
 
 
 
