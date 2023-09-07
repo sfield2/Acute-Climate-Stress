@@ -19,3 +19,5 @@ Paleocar function used for paleoclimate reconstructions and maize niche models. 
 
 
 If you have questions, email Sean Field (Sean.Field@uwyo.edu).
+
+*NOTE: Several issues related to the upcoming deprecation of the SP, rgdal, rgeos packages have been addressed. Full integration of SF and Terra packages will be completed as [r-spatial] (https://r-spatial.org/) updates continue. 
